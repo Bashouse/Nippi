@@ -3,7 +3,7 @@ how to use:
 
 download zip and unpack
 
-start bierod (doubleclick)
+start nippid (doubleclick)
 
 start simplewallet (doubleclick)
 
@@ -29,7 +29,7 @@ start miner.bat (doubleclick)
 
 Happy mining!
 
-start wallet
+start simplewallet
 
 balance
 
